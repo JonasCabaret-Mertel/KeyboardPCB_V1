@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name keyboard_parts)(type KiCad)(uri "C:/Users/jonas_000/Documents/Design Projects/KeyboardPCB_V1/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid-8b1bfc59c2a7882e416b0426f0e5ab633b1682fc)(type KiCad)(uri "C:/Users/jonas_000/Documents/Design Projects/KeyboardPCB_V1/MX_Alps_Hybrid-8b1bfc59c2a7882e416b0426f0e5ab633b1682fc")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri "C:/Users/jonas_000/Documents/Design Projects/KeyboardPCB_V1/random-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri "C:/Users/jonas_000/Documents/Design Projects/KeyboardPCB_V1/Type-C.pretty-master")(options "")(descr ""))
+)
